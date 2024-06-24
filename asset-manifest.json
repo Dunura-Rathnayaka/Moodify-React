@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Moodify-React/static/css/main.e176a13a.chunk.css",
+    "main.js": "/Moodify-React/static/js/main.81c63ae4.chunk.js",
+    "main.js.map": "/Moodify-React/static/js/main.81c63ae4.chunk.js.map",
+    "runtime-main.js": "/Moodify-React/static/js/runtime-main.fe3c39ca.js",
+    "runtime-main.js.map": "/Moodify-React/static/js/runtime-main.fe3c39ca.js.map",
+    "static/js/2.5833e8a6.chunk.js": "/Moodify-React/static/js/2.5833e8a6.chunk.js",
+    "static/js/2.5833e8a6.chunk.js.map": "/Moodify-React/static/js/2.5833e8a6.chunk.js.map",
+    "index.html": "/Moodify-React/index.html",
+    "precache-manifest.5be93500567cb14cb161ee9304a3a56c.js": "/Moodify-React/precache-manifest.5be93500567cb14cb161ee9304a3a56c.js",
+    "service-worker.js": "/Moodify-React/service-worker.js",
+    "static/css/main.e176a13a.chunk.css.map": "/Moodify-React/static/css/main.e176a13a.chunk.css.map",
+    "static/js/2.5833e8a6.chunk.js.LICENSE.txt": "/Moodify-React/static/js/2.5833e8a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3c39ca.js",
+    "static/js/2.5833e8a6.chunk.js",
+    "static/css/main.e176a13a.chunk.css",
+    "static/js/main.81c63ae4.chunk.js"
+  ]
+}
