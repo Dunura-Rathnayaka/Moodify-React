@@ -4,7 +4,7 @@ import styled from 'styled-components';
 export default function Login() {
   const handleClick = () => {
     const clientId = "466e1b1dc6774871af909df19197438c";
-    const redirectUrl = "http://Dunura-Rathnayaka.github.io/Moodify-React/";
+    const redirectUrl = "https://dunura-rathnayaka.github.io/Moodify-React/";
     const apiUrl = "https://accounts.spotify.com/authorize";
     const scope = [
       'user-read-email', 
