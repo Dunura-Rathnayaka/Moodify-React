@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47b4becead3bffb9e5af85ba2328ed04",
+    "revision": "10e05e0cde7c9a9e9f6680178164e34a",
     "url": "/Moodify-React/index.html"
   },
   {
-    "revision": "c9f827e8676b46e26296",
+    "revision": "86ebb61cfdb17a4feb11",
     "url": "/Moodify-React/static/css/main.e176a13a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Moodify-React/static/js/2.5833e8a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9f827e8676b46e26296",
-    "url": "/Moodify-React/static/js/main.81c63ae4.chunk.js"
+    "revision": "86ebb61cfdb17a4feb11",
+    "url": "/Moodify-React/static/js/main.23c64686.chunk.js"
   },
   {
     "revision": "d32870cb87a022975aba",
